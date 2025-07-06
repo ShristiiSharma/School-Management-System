@@ -1,13 +1,5 @@
 # School Management System 
 
-# Team Title: TechTitans
-
-# Team Members:
-1. Shristi Sharma  (0131CS221191)
-2. Sushmita Kumari (0131CS221210)
-3. Raushan Kumar   (0131CS221154)
-4. Shikhar Mishra  (0131CS221184)
-
 ## Introduction
 
 This C++ program implements a simple School Management System (SMS) that allows users to manage student information. The system provides basic functionalities such as adding new students, displaying all students, searching for a specific student, calculating average scores, and assigning grades based on the percentage obtained.
